@@ -1,6 +1,6 @@
 
 [<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ivyvanse&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />](#)
-<p align="center"><a href="#"><img height="69em" src="https://count.getloli.com/get/@:ivyvanse?theme=rule34" alt="ivyvanse" /><br /><img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg" /></a><br>_:: 0x45 ^ \\ ></p>
+<p align="center"><a href="#"><img height="69em" src="https://count.getloli.com/get/@:ivyvanse?theme=rule34" alt="ivyvanse" /><br /><img src="https://forthebadge.com/images/badges/designed-in-ms-paint.svg" /></a><br>lul.></p>
 
 ---
 # Check out:
