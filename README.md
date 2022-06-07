@@ -1,11 +1,11 @@
 
-[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Sonicaii&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />](#)
-<p align="center"><a href="#"><img height="69em" src="https://count.getloli.com/get/@:Sonicaii?theme=gelbooru" alt="Sonicaii" /><br /><img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg" /></a><br>_:: 0x45 ^ \\ ></p>
+[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ivyvanse&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />](#)
+<p align="center"><a href="#"><img height="69em" src="https://count.getloli.com/get/@:ivyvanse?theme=rule34" alt="ivyvanse" /><br /><img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg" /></a><br>_:: 0x45 ^ \\ ></p>
 
 ---
 # Check out:
-[<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=wally-pacmero&repo=Project-Gungame&theme=chartreuse-dark">](https://github.com/wally-pacmero/Project-Gungame)[<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sonicaii&repo=y3&theme=chartreuse-dark" />](https://github.com/Sonicaii/y3)
-<p align="right">I swear I will upload my exec soon™</p>
+[<img align="center" width="48%" src="link1">](link1)[<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ivyvanse&repo=y3&theme=chartreuse-dark" />](https://github.com/ivyvanse/)
+<p align="right">i swear i will upload my exec soon</p>
 
 
 
@@ -18,5 +18,5 @@
 
 
 
-[![newline](https://upload.wikimedia.org/wikipedia/commons/f/f8/OOjs_UI_icon_newline-ltr-invert.svg)](https://raw.githubusercontent.com/Sonicaii/Sonicaii/master/README.md)
+[![newline](https://upload.wikimedia.org/wikipedia/commons/f/f8/OOjs_UI_icon_newline-ltr-invert.svg)](https://raw.githubusercontent.com/ivyvanse/ivyvanse/master/README.md)
 
