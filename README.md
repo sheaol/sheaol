@@ -15,15 +15,7 @@
 
 <img src="https://img.shields.io/badge/-HTML5-535353?style=flat&logo=html5">
 
-<img src="https://img.shields.io/badge/-CSS3-535353?style=flat&logo=css3">
-<img src="https://badges.aleen42.com/src/illustrator.svg">
-<img src="https://badges.aleen42.com/src/photoshop.svg">
-<img src="https://badges.aleen42.com/src/premiere.svg">
-<img src="https://badges.aleen42.com/src/mocha.svg">
-<img src="https://badges.aleen42.com/src/after_effects.svg">
-<img src="https://badges.aleen42.com/src/steam.svg">
-<img src="https://img.shields.io/badge/-FireAlpaca-535353?style=flat&logo=data:image/svg+xml;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA/ElEQVQ4jY2SMY7CMBBFvymClOQCSLTpUiUVTZCQKHIBqt2GFsGBuE7KiApRbLUFN4iQyFqr/G3WyM7YCr+yPPOf/owNjESS47t/Xeu6XgdqAkCjtm1fZwCrSYBtHgtAKN202QIEIU70oihIknme+wACQgBUSpEkh2F4J4UD4X2fOAlIUmstCafUDxiPQJJVVYk70/c8JC7AkI26rqPWmmVZigQ8pTxv5hIwWJDfY8pFDH59xg54s5zZY8gEP4fkFdXIXqqyegXAFKIoCr6CUsoLcCBN0wQB1iKFdgaSZdmU+eIDAEACgLePWBj7vjfmbchs6xvujyOAh6/xD8Fg1qeU6zUWAAAAAElFTkSuQmCC">
-<a href="https://open.spotify.com/user/hewokai"><img src="https://badges.aleen42.com/src/spotify.svg"><a>
+<img src="https://img.shields.io/badge/-CSS3-535353?style=flat&logo=css3"><img src="https://badges.aleen42.com/src/illustrator.svg"><img src="https://badges.aleen42.com/src/photoshop.svg"><img src="https://badges.aleen42.com/src/premiere.svg"><img src="https://badges.aleen42.com/src/mocha.svg"><img src="https://badges.aleen42.com/src/after_effects.svg"><img src="https://badges.aleen42.com/src/steam.svg"><img src="https://img.shields.io/badge/-FireAlpaca-535353?style=flat&logo=data:image/svg+xml;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA/ElEQVQ4jY2SMY7CMBBFvymClOQCSLTpUiUVTZCQKHIBqt2GFsGBuE7KiApRbLUFN4iQyFqr/G3WyM7YCr+yPPOf/owNjESS47t/Xeu6XgdqAkCjtm1fZwCrSYBtHgtAKN202QIEIU70oihIknme+wACQgBUSpEkh2F4J4UD4X2fOAlIUmstCafUDxiPQJJVVYk70/c8JC7AkI26rqPWmmVZigQ8pTxv5hIwWJDfY8pFDH59xg54s5zZY8gEP4fkFdXIXqqyegXAFKIoCr6CUsoLcCBN0wQB1iKFdgaSZdmU+eIDAEACgLePWBj7vjfmbchs6xvujyOAh6/xD8Fg1qeU6zUWAAAAAElFTkSuQmCC"><a href="https://open.spotify.com/user/hewokai"><img src="https://badges.aleen42.com/src/spotify.svg"><a>
 
 <br/>
 
