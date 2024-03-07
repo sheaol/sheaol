@@ -6,11 +6,6 @@
 
 
 
-<a href=" "><img src=" "></a>
-
-<br />
-
-<img src="https://badges.aleen42.com/src/steam.svg"><a href="https://open.spotify.com/user/hewokai"><img src="https://badges.aleen42.com/src/spotify.svg"><a>
 
 <br/>
 
