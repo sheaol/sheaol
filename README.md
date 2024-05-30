@@ -1,5 +1,14 @@
 
 
+projects:
+sheol lumina 
+existence is innocent 
+maya
+gehenna
+arcadia 
+
+
+
 ---
 <p align="center">i swear i will upload my exec soon</p>
 
